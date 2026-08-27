@@ -3,11 +3,7 @@
 
 <!-- Header -->
 <div align="center">
-  <!-- Open to Opportunities Banner -->
-  <img src="https://i.imgur.com/fFqwcK2.gif" width="100%" style="border-radius: 16px;" alt="PEACHYBANNER" />
-  <img src="https://img.shields.io/badge/🚀%20Open%20To-Junior%20Roles%20%26%20Collaboration-F77FBE?style=for-the-badge" alt="Open to opportunities" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&color=F77FBE&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://daily.dev/yuuslokrobjakkroval"><img src="https://api.daily.dev/devcards/v2/QVQl9DcULAbmCSWUykmeR.png?type=default&r=9mq" width="356" alt="KYUU's Dev Card"/></a>
 </div>
 
 ---
@@ -24,16 +20,16 @@ I'm still learning to code, step by step, mistake by mistake. Every challenge is
 
 ---
 
-## 🍑 PEACHY Discord Bot
+## 🍑 PEACHY
 
 One of my flagship projects — a feature-rich Discord bot built to bring fun, moderation, and utility to communities.
 
 <div align="center">
-  <a href="https://kyuu.peachyganggg.com">
+  <a href="https://peachygang.app">
     <img src="https://img.shields.io/badge/🍑%20PEACHY-Discord%20Bot-F77FBE?style=for-the-badge&logo=discord&logoColor=white" alt="PEACHY Bot" />
   </a>
   &nbsp;
-  <a href="https://discord.gg/YOUR_INVITE_CODE">
+  <a href="https://discord.gg/peachygang">
     <img src="https://img.shields.io/badge/Join%20the-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   </a>
 </div>
@@ -76,14 +72,6 @@ One of my flagship projects — a feature-rich Discord bot built to bring fun, m
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuuslokrobjakkroval&theme=radical&hide_border=true&ring=F77FBE&fire=F77FBE&currStreakLabel=F77FBE" alt="GitHub Streak" width="60%" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuuslokrobjakkroval&theme=react-dark&hide_border=true&color=F77FBE&line=F77FBE&point=FFFFFF" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -145,10 +133,10 @@ Resources that genuinely helped me grow — recommended for any beginner:
 <br/>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/YOUR_USERNAME">
+  <a href="https://buymeacoffee.com/yuuslokrobjakkroval">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://ko-fi.com/YOUR_USERNAME">
+  <a href="https://ko-fi.com/yuuslokrobjakkroval">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
   <a href="https://github.com/sponsors/yuuslokrobjakkroval">

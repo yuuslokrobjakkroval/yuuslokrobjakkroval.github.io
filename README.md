@@ -1,6 +1,3 @@
-<!-- Capsule Render Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F77FBE&height=120&section=header" width="100%" />
-
 <!-- Header -->
 <div align="center">
   <a href="https://daily.dev/yuuslokrobjakkroval"><img src="https://api.daily.dev/devcards/v2/QVQl9DcULAbmCSWUykmeR.png?type=default&r=9mq" width="356" alt="KYUU's Dev Card"/></a>

@@ -1,5 +1,7 @@
 <!-- Header -->
+<div align="center">
 <a href="https://daily.dev/yuuslokrobjakkroval"><img src="https://api.daily.dev/devcards/v2/QVQl9DcULAbmCSWUykmeR.png?type=wide&r=h82" width="652" alt="KYUU's Dev Card"/></a>
+</div>
 
 ---
 
